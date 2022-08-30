@@ -2,9 +2,12 @@
 <h4 align="center"> 
 	🚧  Apeperia 🚀 Em construção enquanto acompanho a aula... 📖  🚧
 </h4>
+### 🛠 Tecnologias
 
-### Features
+As seguintes ferramentas foram usadas na construção do projeto:
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
