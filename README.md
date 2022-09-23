@@ -2,7 +2,7 @@
     <img src="img/logo-apeperia.svg"/>
 </h1>
 
-![Apeperia Preview](./img/preview.mp4)
+![Apeperia Preview](./img/preview.gif)
 
 ## Links do projeto
 - [<h4><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20px"/> Figma (Template) </h4>](https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1) 
