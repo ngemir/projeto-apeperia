@@ -7,7 +7,7 @@
 ## Links do projeto
 - [<h4><img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="20px"/> Figma (Template) </h4>](https://www.figma.com/file/FidBn9f7BoBCoEs19EzbUD/Apeperia-Mobile-First?node-id=0%3A1) 
 
-- [<h4>🔗Apeperia</h4>](https://swaveng.github.io/projeto-apeperia/)
+- [<h4>🔗Apeperia</h4>](https://ngemir.github.io/projeto-apeperia/)
 
 ## Sobre Apeperia
 <p>Apeperia é um projeto desenvolvido por mim acompanhando a aula de "Layouts Responsivos: trabalhando com layouts mobile" na formação "Front-end" da Alura.</p>
